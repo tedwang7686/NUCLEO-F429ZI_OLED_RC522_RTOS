@@ -1,0 +1,1 @@
+nucleo-f429zi_oled_rc522_rtos\startup_stm32f429xx.o: startup_stm32f429xx.s

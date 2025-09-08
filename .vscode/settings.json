@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "cmsis_os2.h": "c",
+        "rc522.h": "c",
+        "inttypes.h": "c",
+        "stm32f4xx_hal.h": "c"
+    }
+}
